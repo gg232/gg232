@@ -1,4 +1,4 @@
-I am Gerard Gallagher. I am currently a student at New Jersey Institute of Technology pursuing a bachelor's degree in electrical engineering.
+I am Gerard Gallagher. I am currently a student at New Jersey Institute of Technology pursuing a masters degree in electrical engineering.
 
 My professional interests include audio plugin development and robotics. Feel free to contact me at gg232@njit.edu, and please mention that you got my information through through GitHub. 
 
